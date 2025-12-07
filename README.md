@@ -132,10 +132,6 @@ npm run start
 
 ---
 
-## 🏆 Developed by Panaversity
-
-[Panaversity](https://panaversity.org) is an innovative initiative focused on teaching cutting-edge AI courses. We're at the forefront of creating AI-native technical textbooks that make advanced education accessible to everyone.
-
 ### Related Projects
 - 📚 [AI Native Book](https://ai-native.panaversity.org) - Our first published work on AI agents
 - 🌐 Educational platform for O/A Level, Science, Engineering and Medical AI-native books
@@ -160,8 +156,7 @@ This project originated from **Hackathon I: Create a Textbook for Teaching Physi
 
 Have questions about the course or want to learn more about our programs?
 
-- **Email**: [mubashirkhi72@gmail.com](mailto:mubashirkhi72@gmail.com)
-- **Organization**: [Panaversity](https://panaversity.org)
+- **Email**: [rafihasiddiqui@gmail.com](mailto:rafihasiddiqui@gmail.com)
 
 <div align="center">
 
