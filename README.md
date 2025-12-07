@@ -142,13 +142,7 @@ npm run start
 
 This project originated from **Hackathon I: Create a Textbook for Teaching Physical AI & Humanoid Robotics Course**. Our mission is to create the next generation of AI and robotics education.
 
-<div align="center">
 
-### Interested in Contributing or Learning More?
-
-[GitHub Repository](https://github.com/panaversity/physical-ai-humanoid-robotics) • [Discord Community](#) • [YouTube Tutorials](#)
-
-</div>
 
 ---
 
